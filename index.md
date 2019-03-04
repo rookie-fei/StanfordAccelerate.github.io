@@ -47,8 +47,8 @@
 |              | Fei Huang             |
 |:-------------|:----------------------|
 | Email        | feihuang AT stanford DOT edu |
-| Webpage      | |
-| About        | |
+| Webpage      | |https://www.linkedin.com/in/fei-huang-72177797/
+| About        | |Fei Huang is an EE Ph.D. student at Stanford University, supervised by Prof. Priyanka Raina. He received M.S. and B.S. degree in Electrical Materials & Devices from University of Electronic Science and Technology of China in 2018 and 2015, respectively.
 | Research     | |
 
 ### Masters Students
